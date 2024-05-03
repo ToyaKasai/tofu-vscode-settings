@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-scss",
+    "ms-ceintl.vscode-language-pack-ja",
+    "pkief.material-icon-theme",
+    "rodrigovallades.es7-react-js-snippets",
+    "shardulm94.trailing-spaces",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode",
+    "wayou.vscode-todo-highlight",
+    "xabikos.javascriptsnippets"
+  ],
+  "unwantedRecommendations": []
+}
